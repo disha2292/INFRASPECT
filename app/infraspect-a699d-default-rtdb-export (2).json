@@ -1,0 +1,39 @@
+{
+  "client": [
+    {
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XJgRNaJasLgKbigWUJ4dZCP4V53meas"
+        }
+      ],
+      "client_info": {
+        "android_client_info": {
+          "package_name": "com.example.infraspect"
+        },
+        "mobilesdk_app_id": "1:27855159816:android:e8d986d8ae3beac7dac7bd"
+      },
+      "oauth_client": [
+        {
+          "client_id": "27855159816-hhd93t27hh2u631n3bmevj3jvfqae80l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27855159816-hhd93t27hh2u631n3bmevj3jvfqae80l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1",
+  "project_info": {
+    "project_id": "infraspect-a699d",
+    "project_number": "27855159816",
+    "storage_bucket": "infraspect-a699d.appspot.com"
+  }
+}

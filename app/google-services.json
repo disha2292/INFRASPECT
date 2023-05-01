@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27855159816",
+    "firebase_url": "https://infraspect-a699d-default-rtdb.firebaseio.com",
+    "project_id": "infraspect-a699d",
+    "storage_bucket": "infraspect-a699d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27855159816:android:5b750bf6f4e31a7bdac7bd",
+        "android_client_info": {
+          "package_name": "com.example.infraspect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27855159816-hhd93t27hh2u631n3bmevj3jvfqae80l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7XJgRNaJasLgKbigWUJ4dZCP4V53meas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27855159816-hhd93t27hh2u631n3bmevj3jvfqae80l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
