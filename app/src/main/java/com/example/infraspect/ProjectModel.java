@@ -49,5 +49,8 @@ public class ProjectModel {
     public void setEndDate(String endDate) {
         this.endDate = endDate;
     }
+
+//    public void setEdittext(String task) {
+//    }
 }
 
