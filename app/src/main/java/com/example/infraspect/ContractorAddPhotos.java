@@ -102,9 +102,15 @@ public class ContractorAddPhotos extends AppCompatActivity {
         showAll.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                openImagesActivity();
 
             }
         });
+    }
+
+    private void openImagesActivity() {
+        Intent intent = new Intent(this, ImagesActivity.class);
+        startActivity(intent);
     }
 
 
