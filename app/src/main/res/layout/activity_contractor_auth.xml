@@ -65,13 +65,13 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="225dp"
-        android:layout_height="286dp"
-        android:layout_marginStart="108dp"
+        android:layout_width="269dp"
+        android:layout_height="259dp"
         app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.964"
-        app:srcCompat="@drawable/c" />
+        app:layout_constraintVertical_bias="0.986"
+        app:srcCompat="@drawable/con" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
