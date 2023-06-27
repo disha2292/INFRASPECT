@@ -68,7 +68,7 @@ public void onBindViewHolder(ImageViewHolder holder, int position) {
             super(itemView);
 
             textViewName = itemView.findViewById(R.id.text_view_name);
-            imageView = itemView.findViewById(R.id.image_view_upload);
+            imageView = itemView.findViewById(R.id.imageviewupload);
         }
     }
 }

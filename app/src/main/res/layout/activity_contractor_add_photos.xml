@@ -54,7 +54,7 @@
 
 
     <ImageView
-        android:id="@+id/image_view"
+        android:id="@+id/imageviewupload"
         android:layout_width="403dp"
         android:layout_height="201dp"
         android:layout_above="@id/progress_bar"

@@ -63,7 +63,7 @@ public class ContractorAddPhotos extends AppCompatActivity {
         choosePhoto = findViewById(R.id.choosephoto);
         upload = findViewById(R.id.uploadphoto);
         showAll = findViewById(R.id.showallphoto);
-        imageView = findViewById(R.id.image_view);
+        imageView = findViewById(R.id.imageviewupload);
         progressBar = findViewById(R.id.progress_bar);
 
         mStorageRef = FirebaseStorage.getInstance().getReference("uploads");
@@ -186,8 +186,6 @@ public class ContractorAddPhotos extends AppCompatActivity {
     }
 }
 
-
-
 //    @Override
 //    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 //        super.onActivityResult(requestCode, resultCode, data);
@@ -199,5 +197,8 @@ public class ContractorAddPhotos extends AppCompatActivity {
 //            Picasso.get().load(mImageUri).into(imageView);
 ////            Picasso.get(this).load(mImageUri).into(imageView)
 ////            Picasso.with(this).load(mImageUri).into(imageView);
-//        }
-//    }
+
+
+
+
+
